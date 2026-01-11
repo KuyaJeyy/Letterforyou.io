@@ -16,7 +16,7 @@ body {
 	background-image: url(Background.jpg.jpg)
 	  background-repeat: no-repeat; /* Prevents the image from repeating */
   background-position: center; /* Centers the image within the container */
-  background-size: cover;
+  background-size: contain;
 }
 
 .instruction{
@@ -194,5 +194,6 @@ body {
 	transform: translate(-50%, 0);
 
 }
+
 
 
