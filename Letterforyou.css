@@ -13,7 +13,8 @@ h1 {
 }
 
 body {
-	background-image: url(Background.jpg.jpg);
+	background-image: url(Background.jpg.jpg)
+	margin: 0px;
 }
 
 .instruction{
@@ -191,3 +192,4 @@ body {
 	transform: translate(-50%, 0);
 
 }
+
