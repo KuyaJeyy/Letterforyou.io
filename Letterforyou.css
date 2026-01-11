@@ -14,7 +14,9 @@ h1 {
 
 body {
 	background-image: url(Background.jpg.jpg)
-	margin: 0px;
+	  background-repeat: no-repeat; /* Prevents the image from repeating */
+  background-position: center; /* Centers the image within the container */
+  background-size: cover;
 }
 
 .instruction{
@@ -192,4 +194,5 @@ body {
 	transform: translate(-50%, 0);
 
 }
+
 
